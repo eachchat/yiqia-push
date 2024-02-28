@@ -1,0 +1,32 @@
+addr: :80
+
+logger_level: debug
+
+notify:
+  pmr:
+    default_title: 
+    default_content: 
+    image_content: 
+    file_content: 
+
+pusher:
+  huawei: 
+    client_id: 
+    client_secret: 
+    target_user_type: 
+  oppo: 
+    app_key: 
+    master_secret: 
+    channel_id: 
+  xiaomi: 
+    app_pkg_name: 
+    app_secret: 
+    channel_id: 
+  vivo: 
+    app_id: 
+    app_key: 
+    app_secret: 
+  getui: 
+    app_id: 
+    app_key: 
+    master_secret: 
